@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast Combo",
+  "description": "Block Blast-style block fitting puzzle game with high-satisfaction combo particle explosions, screen shake effects, and in-game cheat settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
